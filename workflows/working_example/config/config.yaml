@@ -1,5 +1,0 @@
-input_namespace: null
-output_namespace: out
-params:
-  path: "data.csv"
-  out: "out.csv"
