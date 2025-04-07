@@ -1,4 +1,4 @@
-"""Hello World!
+"""EpiEstim
 
 This is a simple example module that demonstrates how to use GRAPEVNE modules. This module displays an image on the screen in a platform-independent way. The module touches an output file that we call a 'trigger' to signify that the module has completed successfully. The name of the trigger file is configurable.
 
